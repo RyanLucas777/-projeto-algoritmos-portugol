@@ -36,6 +36,7 @@ programa
             retorne
         }
 
+
         escreva("\nResultado = ", resultado)
     }
 }
